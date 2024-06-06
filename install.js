@@ -5,7 +5,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          "git clone https://github.com/dnhkng/GlaDOS app",
+          ""http://localhost:42000/api/MaHdOS/%7B%7Binput.event[0]%7D%7D,
         ]
       }
     },
