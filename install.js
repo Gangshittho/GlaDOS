@@ -5,7 +5,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          ""http://localhost:42000/api/MaHdOS/%7B%7Binput.event[0]%7D%7D,
+          ""http://localhost:42000/api/MaHdOS/,
         ]
       }
     },
